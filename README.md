@@ -1,1 +1,1 @@
-# Mathematical-modeling-and-optimization-methods
+# Mathematical modeling and optimization methods
